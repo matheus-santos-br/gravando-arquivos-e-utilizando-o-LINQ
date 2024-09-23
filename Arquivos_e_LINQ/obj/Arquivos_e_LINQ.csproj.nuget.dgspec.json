@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\C# consumindo API, gravando arquivos e utilizando o LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ.csproj": {}
+    "C:\\dev\\C# consumindo API, gravando arquivos e utilizando o LINQ\\gravando-arquivos-e-utilizando-o-LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ.csproj": {}
   },
   "projects": {
-    "C:\\dev\\C# consumindo API, gravando arquivos e utilizando o LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ.csproj": {
+    "C:\\dev\\C# consumindo API, gravando arquivos e utilizando o LINQ\\gravando-arquivos-e-utilizando-o-LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\C# consumindo API, gravando arquivos e utilizando o LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ.csproj",
+        "projectUniqueName": "C:\\dev\\C# consumindo API, gravando arquivos e utilizando o LINQ\\gravando-arquivos-e-utilizando-o-LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ.csproj",
         "projectName": "Arquivos_e_LINQ",
-        "projectPath": "C:\\dev\\C# consumindo API, gravando arquivos e utilizando o LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ.csproj",
-        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\C# consumindo API, gravando arquivos e utilizando o LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ\\obj\\",
+        "projectPath": "C:\\dev\\C# consumindo API, gravando arquivos e utilizando o LINQ\\gravando-arquivos-e-utilizando-o-LINQ\\Arquivos_e_LINQ\\Arquivos_e_LINQ.csproj",
+        "packagesPath": "C:\\Users\\MEUCOB\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\C# consumindo API, gravando arquivos e utilizando o LINQ\\gravando-arquivos-e-utilizando-o-LINQ\\Arquivos_e_LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MEUCOB\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

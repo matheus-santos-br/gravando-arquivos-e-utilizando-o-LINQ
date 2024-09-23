@@ -21,6 +21,7 @@ namespace Arquivos_e_LINQ.Filters
                 Console.WriteLine($@"Título: {aux}");
             }
 
+            Console.WriteLine();
         }
     }
 }

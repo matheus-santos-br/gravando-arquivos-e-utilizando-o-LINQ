@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography.X509Certificates;
 using System.Text.Json;
+using Arquivos_e_LINQ;
 using Arquivos_e_LINQ.Filters;
 using Arquivos_e_LINQ.Models;
 
@@ -22,25 +23,13 @@ public class Program
 
                 List<Livros> livros = JsonSerializer.Deserialize<List<Livros>>(retorno);
 
-                LinqFilter.Filter(livros);
+                Exemplos exe = new Exemplos();
 
-                Console.WriteLine();
+                //Usando LINQ
+                exe.UsandoLinq(livros);
 
-                Console.WriteLine("Lista Ordenada: ");
-                LinqOrder.Order(livros);
-
-                Console.WriteLine();
-
-                LinqFilter.FilterByGenre(livros, "Ficção Científica");
-                Console.WriteLine();
-                LinqFilter.FilterByGenre(livros, "Fantasia");
-
-                Console.WriteLine();
-
-                LinqFilter.FilterByAuthor(livros, "J.R.R. Tolkien");
-                Console.WriteLine();
-                LinqFilter.FilterByAuthor(livros, "George Orwell");
-
+                //Extraindo um arquivo .json
+                exe.MostrarLivrosFavoritos(livros);
             }
             catch (Exception ex)
             {

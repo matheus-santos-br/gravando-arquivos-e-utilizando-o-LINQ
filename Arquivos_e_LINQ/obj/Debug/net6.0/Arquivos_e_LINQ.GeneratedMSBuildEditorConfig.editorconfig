@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Arquivos_e_LINQ
-build_property.ProjectDir = C:\dev\C# consumindo API, gravando arquivos e utilizando o LINQ\Arquivos_e_LINQ\Arquivos_e_LINQ\
+build_property.ProjectDir = C:\dev\C# consumindo API, gravando arquivos e utilizando o LINQ\gravando-arquivos-e-utilizando-o-LINQ\Arquivos_e_LINQ\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

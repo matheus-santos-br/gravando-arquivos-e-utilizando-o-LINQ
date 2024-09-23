@@ -18,6 +18,8 @@ namespace Arquivos_e_LINQ.Filters
             {
                 Console.WriteLine($@"Título: {aux}");
             }
+
+            Console.WriteLine();
         }
         public static void FilterByGenre(List<Livros> livros, string genero)
         {
@@ -31,6 +33,8 @@ namespace Arquivos_e_LINQ.Filters
             {
                 Console.WriteLine($@"Autor: {aux}");
             }
+
+            Console.WriteLine();
         }
         public static void FilterByAuthor(List<Livros> livros, string autor)
         {
