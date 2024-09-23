@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arquivos_e_LINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fb2b540cff7f7485da14bb11a967b6ceed447b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6af4ec3561dac190323b97fd4a739e33c09be510")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arquivos_e_LINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arquivos_e_LINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

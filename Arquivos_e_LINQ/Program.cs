@@ -29,7 +29,7 @@ public class Program
                 exe.UsandoLinq(livros);
 
                 //Extraindo um arquivo .json
-                exe.MostrarLivrosFavoritos(livros);
+                exe.ExtrairLivrosFavoritos(livros);
             }
             catch (Exception ex)
             {
